@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AlphaBetaO
+comment0.text=\r\n\r\n\ @author\ tiziazine\ ikram\r\n
+comment1.params=player\ board\ world
+comment1.target=AlphaBetaO(int,\ Board,\ myWorld)
+comment2.params=player\ board
+comment2.target=int\ generateMove(int,\ Board)
+comment3.params=player\ board
+comment3.target=int\ alphabetaHelper(int,\ Board)
+comment4.params=player\ node\ alpha\ beta\ depth
+comment4.target=double\ alphabeta(int,\ Board,\ double,\ double,\ int)
+comment5.params=player\ board\ depth
+comment5.target=double\ evaluate(int,\ Board,\ int)
+comment6.params=player
+comment6.target=int\ otherPlayer(int)
+numComments=7

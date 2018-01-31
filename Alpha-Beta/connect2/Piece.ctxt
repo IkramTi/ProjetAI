@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Piece
+comment0.text=\r\n\ Piece\ d\u00E9finit\ les\ bulles\ vert\ et\ rouges\ jou\u00E9es\r\n\ \r\n\ @author\ tiziazine\ ikram\r\n
+comment1.params=color
+comment1.target=Piece(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ enter()
+comment4.params=
+comment4.target=boolean\ isRadiusComplete()
+numComments=5

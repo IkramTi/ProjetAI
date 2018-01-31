@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=WhiteBubble
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ WhiteBubble\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x\ y
+comment1.target=WhiteBubble(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=int\ getType()
+comment4.params=piece
+comment4.target=void\ add(int)
+numComments=5

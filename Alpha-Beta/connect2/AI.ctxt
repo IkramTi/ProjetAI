@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=AI
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ AI\ here.\r\n\ \r\n\ @author\ tiziazine\ ikram\r\n
+comment1.params=player\ board\ world
+comment1.target=AI(int,\ Board,\ myWorld)
+comment2.params=player\ board
+comment2.target=int\ generateMove(int,\ Board)
+comment3.params=
+comment3.target=void\ run()
+numComments=4

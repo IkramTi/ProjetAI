@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=myWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ myWorld\ here.\r\n\ \r\n\ @author\ tiziazine\ ikram\ \r\n
+comment1.params=
+comment1.target=myWorld()
+comment1.text=\r\n\ Constructeur\ des\ objets\ de\ la\ classe\ myWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=Game\ initGame()
+comment3.params=
+comment3.target=Game\ getGame()
+comment4.params=
+comment4.target=WhiteBubble[][]\ getGrid()
+comment5.params=type\ x
+comment5.target=void\ addPiece(int,\ int)
+numComments=6
