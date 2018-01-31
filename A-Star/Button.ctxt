@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Button
+comment1.params=Images\ ButtonCall
+comment1.target=Button(greenfoot.GreenfootImage[],\ int)
+comment2.params=
+comment2.target=boolean\ MouseOnThis()
+comment3.params=
+comment3.target=int\ getMouseX()
+comment4.params=
+comment4.target=int\ getMouseY()
+comment5.params=
+comment5.target=void\ act()
+numComments=6

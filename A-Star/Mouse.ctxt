@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Mouse
+comment1.params=
+comment1.target=Mouse()
+comment2.params=
+comment2.target=void\ ResetScroll()
+comment2.text=sets\ the\ scroll\ Count\ to\ 0
+comment3.params=image\ XClick\ yClick
+comment3.target=void\ setImage(greenfoot.GreenfootImage,\ int,\ int)
+comment3.text=set\ the\ Mouse\ Image\ (the\ given\ Image\ will\ be\ scaled\ to\ 32,\ 32.)
+comment4.params=
+comment4.target=void\ UpdateImage()
+comment4.text=Updates\ the\ MouseImage\ (usually\ done\ automatically)
+comment5.params=WhichOne
+comment5.target=void\ setStandardImage(int)
+comment5.text=sets\ the\ MouseImage\ to\ the\ given\ Standard\ Image
+comment6.params=
+comment6.target=int\ getScroll()
+comment6.text=returns\ the\ scroll\ count\ since\ the\ last\ Time,\ it\ was\ setted\ to\ 0
+comment7.params=image\ CursorPoint
+comment7.target=void\ newImage(greenfoot.GreenfootImage,\ java.awt.Point)
+numComments=8

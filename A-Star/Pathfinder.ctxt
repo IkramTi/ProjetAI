@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Pathfinder
+comment1.params=Maze\ PointsToCheck\ StartPoints\ EndPoints
+comment1.target=Point[]\ getPathInArray(int[][],\ int[][],\ Point[],\ Point[])
+comment2.params=PL\ P
+comment2.target=boolean\ PointLocationInList(java.util.List,\ Point)
+comment3.params=x\ y\ Maze\ PointsToCheck
+comment3.target=boolean\ FreeAt(int,\ int,\ int[][],\ int[][])
+comment4.params=Maze\ PointsToCheck\ StartPoint\ EndPoint
+comment4.target=Point[]\ getPathInArray(int[][],\ int[][],\ Point,\ Point)
+comment5.params=Maze\ StartPoint\ EndPoint
+comment5.target=Point[]\ getPathInArray(int[][],\ Point,\ Point)
+comment6.params=Maze\ StartPoints\ EndPoints
+comment6.target=Point[]\ getPathInArray(int[][],\ Point[],\ Point[])
+numComments=7
