@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Board
+comment0.text=\r\n\ X\ O\ grille\ GUI\r\n\r\n
+comment1.params=
+comment1.target=Board()
+comment1.text=\r\n\ Le\ constructeur\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ La\ methode\ pour\ la\ gestion\ de\ cliques\ des\ utilisateurs\r\n
+comment3.params=x\ y
+comment3.target=void\ addNought(int,\ int)
+comment3.text=\r\n\ Ajouter\ O\ dans\ la\ position\ x\ et\ y\r\n
+comment4.params=x\ y
+comment4.target=void\ addCross(int,\ int)
+comment4.text=\r\n\ Ajouter\ \ le\ X\ dans\ la\ position\ x\ et\ y\r\n
+numComments=5

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Nought
+comment0.text=\r\n\ Nought\ class\r\n\ Image\:\ courtesy\ of\ Google\ \:)\r\n\ \r\n\ @author\ na200\r\n\ @version\ 2011.04.16\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Nought\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2
